@@ -1,0 +1,11 @@
+torch
+torchvision
+ultralytics
+opencv-python
+numpy
+Pillow
+easyocr
+pytesseract
+pyyaml
+tqdm
+pdf2image
