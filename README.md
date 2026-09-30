@@ -126,3 +126,15 @@ Results are saved to `sample_output/result.json`. Each entry follows this struct
 ---
 
 Developed with ❤️ by [Kavin](https://github.com/kavindon2007)
+
+
+
+PROOF ::
+
+
+<img width="491" height="484" alt="image" src="https://github.com/user-attachments/assets/c1215686-a139-466d-ae64-5591b2bbe1bd" />
+
+
+
+<img width="571" height="417" alt="image" src="https://github.com/user-attachments/assets/d4462c3f-da9e-4158-9cc6-0a1be8ec7f04" />
+
